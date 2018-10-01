@@ -1,4 +1,3 @@
-
 def multiplesSum(n):
 
     def sum(num):
